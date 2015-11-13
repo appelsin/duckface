@@ -4,7 +4,7 @@ class Duckface
   
   def initialize(&block)
   	@conditions = []
-  	instance_eval &block
+  	instance_eval(&block)
   end
 
   def describes?(obj)
