@@ -2,6 +2,9 @@
 
 Duckface is a DRY interface check implementation based on duck-typing.
 
+[![Build Status](https://travis-ci.org/appelsin/duckface.svg?branch=master)](https://travis-ci.org/appelsin/duckface)
+[![Code Climate](https://codeclimate.com/github/appelsin/duckface/badges/gpa.svg)](https://codeclimate.com/github/appelsin/duckface)
+
 ## Installation
 
 Add this line to your application's Gemfile:
