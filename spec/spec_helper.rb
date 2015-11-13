@@ -26,4 +26,5 @@ end
 
 class Dog
   include Animal
+  def bark; 'bark-bark-bark' end
 end
